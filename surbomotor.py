@@ -34,7 +34,7 @@ def setServoPos(degree):
 if __name__ == "__main__":  
 
   setServoPos(0)
-  sleep(1) # 1초 대기
+  sleep(1) 
 
   setServoPos(90)
   sleep(1)
